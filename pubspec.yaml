@@ -63,7 +63,10 @@ flutter:
     - assets/skills/django.png
     - assets/skills/java.jpeg
     - assets/skills/photoshop.png
-    - assets/skills/filmora.png
+    - assets/skills/cpp.jpeg
+    - assets/skills/css.png
+    - assets/skills/html.png
+    - assets/skills/python.png
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
