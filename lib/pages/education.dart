@@ -61,18 +61,18 @@ class EducationPage extends StatelessWidget {
                           crossAxisAlignment: CrossAxisAlignment.start,
                           children: [
                             Container(
-                              child: myText("2008-2017", Colors.grey[350], 20),
+                              child: myText("2015-2017", Colors.grey[350], 20),
                             ),
                             Container(
                               child: myText("Matriculation", Colors.white, 30),
                             ),
                             Container(
-                              child: myText("M.G.N Public School UE-2,",
+                              child: myText("R.A.N. Public School,",
                                   Colors.grey[350], 25),
                             ),
                             Container(
                               child: myText(
-                                  "Jalandhar, Punjab", Colors.grey[350], 20),
+                                  "Bilaspur, UP", Colors.grey[350], 20),
                             ),
                           ],
                         )
@@ -108,12 +108,12 @@ class EducationPage extends StatelessWidget {
                                   "Graduated High School", Colors.white, 30),
                             ),
                             Container(
-                              child: myText("M.G.N Public School UE-2,",
+                              child: myText("R.A.N. Public School,",
                                   Colors.grey[350], 25),
                             ),
                             Container(
                               child: myText(
-                                  "Jalandhar, Punjab", Colors.grey[350], 20),
+                                  "Bilaspur, UP", Colors.grey[350], 20),
                             ),
                           ],
                         )
